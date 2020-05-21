@@ -1,6 +1,6 @@
 # broken-link
 
-This is small script python help you checking bronken link in the webpage.
+This is small script python help you checking broken link in the webpage.
 
 Run it with command:
 ```sh
